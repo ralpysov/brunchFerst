@@ -6,3 +6,4 @@
 изменение из ветки1
 
 >>>>>>> branch1
+Line from usrer1
